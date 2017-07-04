@@ -18,6 +18,9 @@ AUTHOR：
 
 ## Guide ##
 
+### Markdown ###
+- [markdown guide](https://github.com/Melo618/Simple-Markdown-Guide)
+
 ### Bayes ###
 - [bayesian inference part two](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html)
 - [bayesian inference part two](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html)
