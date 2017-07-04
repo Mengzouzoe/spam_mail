@@ -8,6 +8,7 @@ AUTHOR：
 - zouying
 
 ## TODO List ##
+- [ ] Bayes basic conception
 - [ ] markdown
 - [ ] version control: git
 - [ ] github.com/pull request
@@ -21,7 +22,7 @@ AUTHOR：
 ### Markdown ###
 - [markdown guide](https://github.com/Melo618/Simple-Markdown-Guide)
 
-### Bayes ###
+### Bayes basic conception ###
 - [bayesian inference part two](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html)
 - [bayesian inference part two](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html)
 
