@@ -14,3 +14,10 @@ AUTHOR：
 - [ ] python 3
 - [ ] pep8
 - [ ] travis
+
+
+## Guide ##
+
+### Github.com workflow ###
+- [git-workflow-tutorial](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+- [3.3-创建Pull-Request](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BAPull-Request)
