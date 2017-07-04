@@ -18,6 +18,10 @@ AUTHOR：
 
 ## Guide ##
 
+### Bayes ###
+- [bayesian inference part two](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html)
+- [bayesian inference part two](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html)
+
 ### Github.com workflow ###
 - [git-workflow-tutorial](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 - [3.3-创建Pull-Request](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BAPull-Request)
