@@ -8,12 +8,12 @@ AUTHOR：
 - zouying
 
 ## TODO List ##
-- [ ] Bayes basic conception
-- [ ] markdown
-- [ ] version control: git
-- [ ] github.com/pull request
+- [x] Bayes basic conception
+- [x] markdown
+- [x] version control: git
+- [x] github.com/pull request
 - [ ] python 3
-- [ ] pep8
+- [ ] Code style: [Google code style](http://python-guide-pt-br.readthedocs.io/en/latest/writing/style/#code-style),pep8
 - [ ] travis
 
 
